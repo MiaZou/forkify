@@ -3,7 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   mode: 'development',
-  entry: ['babel-polyfill', './src/js/index.js'],
+  entry: ['./src/js/index.js'],
   devtool: 'inline-source-map',
   output: {
     path: path.resolve(__dirname, 'dist'), // absolute path, buildin note package
