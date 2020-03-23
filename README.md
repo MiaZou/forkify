@@ -24,7 +24,7 @@ $ cd forkify
 Install packages that are required for this project.
 
 ```sh
-$ npm install --save node_modules
+$ npm install
 ```
 
 Start the project
