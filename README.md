@@ -2,6 +2,8 @@
 
 Forkify is a recipe search application used pure JavaScript and webpack. Users are able to enter an ingredient and search for related recipes. Users are also able to add ingredients from one or more recipes to shopping list. Lastly, users are able to 'Like' specific recipes. Based on localstorage, liked recipes would be saved.
 
+Link: http://73.71.152.77:667/
+
 <img src="img/forkify.png">
 
 ## Getting Started
